@@ -1,2 +1,2 @@
-# Precourse-Henry
-Este es un repositorio del modulo 2 de Henry
+Mateo Pérez
+Estees es un repositorio de prueba de clon de github a mi computadora
