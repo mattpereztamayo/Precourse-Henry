@@ -1,1 +1,1 @@
-]Este proyecto es una prueba de clonado a escritorio local
+]ste proyecto es una prueba de clonado a escritorio local
