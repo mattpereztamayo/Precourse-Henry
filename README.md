@@ -1,1 +1,1 @@
-Este repositorio es del modulo 2
+]Este proyecto es una prueba de clonado a escritorio local
